@@ -19,8 +19,6 @@
 	}
 
 
-`:bowtie:`
-
 :smile: `:smile:`
 
 :blush: `:blush:`  
